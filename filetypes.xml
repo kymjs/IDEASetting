@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="web_config" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
