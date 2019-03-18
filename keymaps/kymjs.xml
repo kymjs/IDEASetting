@@ -1,4 +1,7 @@
 <keymap version="1" name="kymjs" parent="Eclipse (Mac OS X)">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="Android.TraceViewSearch" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -71,5 +74,8 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ViewToolBar">
+    <keyboard-shortcut first-keystroke="meta 8" />
   </action>
 </keymap>
