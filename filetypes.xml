@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="spmc" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
+      <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
