@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="spmc" type="PLAIN_TEXT" />
       <mapping pattern="abcde" type="PLAIN_TEXT" />
+      <mapping pattern="android_useX5" type="PLAIN_TEXT" />
       <mapping pattern="618_active" type="PLAIN_TEXT" />
       <mapping pattern="domain_white_list" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="PLAIN_TEXT" />
